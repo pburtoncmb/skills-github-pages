@@ -41,4 +41,4 @@ We may update this Privacy Policy from time to time. Changes will be reflected h
 8. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 📧 Email: pburtoncmb@gmail.com
-🌐 Website: [Your Website or GitHub Pages Link]
+🌐 Website: https://github.com/pburtoncmb/skills-github-pages/blob/my-pages/index.md
